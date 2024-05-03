@@ -41,11 +41,14 @@ builder.Services.AddSingleton<IConnection>(serviceProvider =>
 {
     try
     {
-        return factory.CreateConnection();
+        // Tenta criar a conexão
+            var connection = factory.CreateConnection();
+        Console.WriteLine("RabbitMQ connection created successfully.");
+        return connection;
     }
     catch (Exception ex)
     {
-        // Log the exception or handle it according to your application's needs
+        // Logue a exceção ou trate-a conforme necessário
         Console.WriteLine("Failed to create a RabbitMQ connection: " + ex.Message);
         throw;
     }

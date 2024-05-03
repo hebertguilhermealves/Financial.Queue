@@ -13,3 +13,4 @@ C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\refint\Financial.Queue.Repositories.dll
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.pdb
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\ref\Financial.Queue.Repositories.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.sourcelink.json

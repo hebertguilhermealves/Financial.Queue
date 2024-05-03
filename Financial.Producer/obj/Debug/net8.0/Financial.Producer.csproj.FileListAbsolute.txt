@@ -40,3 +40,4 @@ C:\Users\heber\source\repos\Financial.Queue\Financial.Producer\obj\Debug\net8.0\
 C:\Users\heber\source\repos\Financial.Queue\Financial.Producer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\heber\source\repos\Financial.Queue\Financial.Producer\bin\Debug\net8.0\Financial.Producer.xml
 C:\Users\heber\source\repos\Financial.Queue\Financial.Producer\obj\Debug\net8.0\Financial.Producer.xml
+C:\Users\heber\source\repos\Financial.Queue\Financial.Producer\obj\Debug\net8.0\Financial.Producer.sourcelink.json

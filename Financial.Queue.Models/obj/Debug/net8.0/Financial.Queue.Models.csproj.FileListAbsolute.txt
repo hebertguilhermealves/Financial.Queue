@@ -9,3 +9,4 @@ C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\refint\Financial.Queue.Models.dll
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.pdb
 C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\ref\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.sourcelink.json
