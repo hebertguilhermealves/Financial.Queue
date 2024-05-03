@@ -1,0 +1,17 @@
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Services.deps.json
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Services.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Services.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Repositories.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Models.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\bin\Debug\net8.0\Financial.Queue.Repositories.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.csproj.AssemblyReference.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.AssemblyInfo.cs
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financia.A53E2517.Up2Date
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\refint\Financial.Queue.Services.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\Financial.Queue.Services.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Services\obj\Debug\net8.0\ref\Financial.Queue.Services.dll

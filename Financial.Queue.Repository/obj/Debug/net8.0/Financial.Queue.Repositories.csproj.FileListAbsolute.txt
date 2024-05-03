@@ -1,0 +1,15 @@
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\bin\Debug\net8.0\Financial.Queue.Repositories.deps.json
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\bin\Debug\net8.0\Financial.Queue.Repositories.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\bin\Debug\net8.0\Financial.Queue.Repositories.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\bin\Debug\net8.0\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\bin\Debug\net8.0\Financial.Queue.Models.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.csproj.AssemblyReference.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.AssemblyInfo.cs
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financia.9AC60130.Up2Date
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\refint\Financial.Queue.Repositories.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\Financial.Queue.Repositories.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Repository\obj\Debug\net8.0\ref\Financial.Queue.Repositories.dll

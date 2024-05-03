@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Financial.Producer</name>
+    </assembly>
+    <members>
+        <member name="M:Financial.Producer.Controllers.MessageController.Post(Financial.Queue.Models.Request.MessageRequest)">
+            <summary>
+            Envia uma mensagem para a fila especificada.
+            </summary>
+            <param name="request">Objeto que contém a mensagem e o nome da fila.</param>
+            <returns>Retorna uma resposta indicando sucesso ou falha na operação.</returns>
+            <response code="200">Mensagem enviada com sucesso.</response>
+            <response code="400">Dados inválidos fornecidos.</response>
+        </member>
+    </members>
+</doc>

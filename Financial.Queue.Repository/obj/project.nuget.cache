@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLCyVcw6bMqYGW1mrrRl9f1vsItM6VHezqk4v1k37O1aQE8FSixxuvviug0qK6zaWY7mkX3/ItiJEtZn13BTiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heber\\source\\repos\\Financial.Queue\\Financial.Queue.Repository\\Financial.Queue.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heber\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\heber\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\heber\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

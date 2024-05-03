@@ -1,0 +1,11 @@
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\bin\Debug\net8.0\Financial.Queue.Models.deps.json
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\bin\Debug\net8.0\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\bin\Debug\net8.0\Financial.Queue.Models.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.AssemblyInfoInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.AssemblyInfo.cs
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.csproj.CoreCompileInputs.cache
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\refint\Financial.Queue.Models.dll
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\Financial.Queue.Models.pdb
+C:\Users\heber\source\repos\Financial.Queue\Financial.Queue.Models\obj\Debug\net8.0\ref\Financial.Queue.Models.dll

@@ -1,0 +1,29 @@
+[
+  {
+    "ContainingType": "Financial.Producer.Controllers.MessageController",
+    "Method": "Post",
+    "RelativePath": "api/Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Financial.Queue.Models.Request.MessageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  }
+]
