@@ -1,5 +1,5 @@
 # Financial.Queue
-# API de Mensageria com RabbitMQ e .NET 8
+# API de Mensageria com Docker, RabbitMQ e .NET 8
 
 Este projeto demonstra a integração de uma API .NET 8 com RabbitMQ, usando Docker para simplificar o desenvolvimento e a implantação. A API atua como um producer de mensagens, enviando dados para diferentes filas no RabbitMQ conforme solicitado pelos clientes.
 
